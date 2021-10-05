@@ -3,7 +3,7 @@
 <div>
 <a href="https://eddyzxq.github.io/">
   
-  <img height="180cm" src="[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatimeEddyZxQ)]"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api//top-langs/?username=EddyZxQ&layout=compact"/>
 </a>
 </div>
 
