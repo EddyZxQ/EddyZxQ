@@ -17,7 +17,13 @@
 
 </div>
 
+<div>
+  <a href="https://www.instagram.com/eltete_edgar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/edgar-lopez-calomarde-971966212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UC24YlChAhyhIvPDZ3zL9Lug"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://paypal.me/eddyZxQ"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
 
+</div>
 
 <!--
 **EddyZxQ/EddyZxQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
