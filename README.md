@@ -1,4 +1,4 @@
-### Hola yo soy Edgar Lopez
+### Hola yo soy Edgar Lopez Calomarde
 
 <div>
 <a href="https://eddyzxq.github.io/">
