@@ -2,9 +2,10 @@
 
 
 <div align="center">
-
+ <img src="![GithubBanner](https://user-images.githubusercontent.com/24995646/185759672-08604875-1fe9-4cf1-8b44-560fdee3e5c6.png)" width="100%" title="Intro Card" alt="Intro Card">
 </div>
-![GithubBanner](https://user-images.githubusercontent.com/24995646/185759672-08604875-1fe9-4cf1-8b44-560fdee3e5c6.png)
+
+
 <div>
 <a href="https://eddyzxq.github.io/">
   
