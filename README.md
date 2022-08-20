@@ -1,5 +1,10 @@
 ### Hola yo soy Edgar Lopez Calomarde
 
+
+<div align="center">
+
+</div>
+![GithubBanner](https://user-images.githubusercontent.com/24995646/185759672-08604875-1fe9-4cf1-8b44-560fdee3e5c6.png)
 <div>
 <a href="https://eddyzxq.github.io/">
   
