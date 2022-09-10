@@ -1,5 +1,6 @@
+[![Head](https://user-images.githubusercontent.com/24995646/189483363-9b7e1c08-1cd5-4576-b92c-084dbfb6e876.png)](https://eddyzxq.github.io/)
 
-[![Head](https://user-images.githubusercontent.com/24995646/185759732-602afb6b-99d7-4757-8bc9-fff90d213998.png)](https://rishavchanda.io)
+
 
 <h1 align="center">Hello 🤙, I'm Edgar Lopez Calomarde</h1>
 <h3 align="center">A passionate android and frontend developer from Spain</h3>
