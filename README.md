@@ -20,8 +20,9 @@
 - 📫 How to reach me **edgarlopezcalomarde@gmail.com**
 
 
-<h3 align="left">Social Networks:</h3>
-<p align="left">
+
+<h3 align="center">Social Networks:</h3>
+<p align="center">
 
 <a href="https://www.linkedin.com/in/edgar-lopez-calomarde-971966212/" target="blank">
 <img align="center" src="https://user-images.githubusercontent.com/24995646/189480478-5dba734a-5e84-4b18-b6d1-d283dd14c7a6.svg" alt="edgar linkedin" height="30"width="40" />
