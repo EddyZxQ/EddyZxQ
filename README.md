@@ -16,7 +16,7 @@
 
 🌱 I’m currently learning JetPack Compose
 
-💬 Ask me about **Android and kotlin**
+💬 Ask me about **Android and Kotlin**
 
 📫 How to reach me **edgarlopezcalomarde@gmail.com**
 
