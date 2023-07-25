@@ -2,25 +2,6 @@
 
 
 
-<h2 align="left">Hello 🤙, I'm Edgar Lopez Calomarde</h3>
-
-<!--
-
-
-<h1 align="center">A passionate android and frontend developer from Spain</h1>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/24995646/189483022-3f125101-209b-4c9b-990b-cfb4bc9e4068.png">
--->
-
-
-🔭 I’m currently studying web applications development
-
-🌱 I’m currently learning JetPack Compose
-
-💬 Ask me about **Android and Kotlin**
-
-📫 How to reach me **edgarlopezcalomarde@gmail.com**
-
-
 
 <h3 align="right">Social Networks:</h3>
 <p align="right">
